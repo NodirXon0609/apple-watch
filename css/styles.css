@@ -142,6 +142,7 @@ img {
 }
 
 .site-header-logo {
+  flex-shrink: 0;
   margin-right: auto;
   transition: opacity 0.5s ease;
 }
