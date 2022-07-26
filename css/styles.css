@@ -165,6 +165,7 @@ img {
 
 /* SITENAV-BEGIN */
 .sitenav {
+  margin-left: 40px;
   margin-right: 40px;
 }
 
